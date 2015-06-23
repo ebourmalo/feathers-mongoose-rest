@@ -6,7 +6,7 @@ This is a [feathersjs](http://feathersjs.com/) plugin for simply creating rest s
 
 ## Why use this plugin?
 
-Keep your existing mongoose models and their advantages (with the constraints, validations and cascades) and use the power of feathersjs for simply creating rest services with a line of code.
+Keep your existing mongoose models and their advantages (with the constraints, validations and cascades) and use the power of feathersjs for simply creating rest services with a single line of code. Compatible with the latest versions of feathersjs (1.x)
 
 ## How to use it?
 
