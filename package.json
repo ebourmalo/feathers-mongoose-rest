@@ -1,0 +1,34 @@
+{
+  "name": "feathers-mongoose-rest",
+  "version": "0.0.1",
+  "description": "Simply create a flexible rest service for Featherjs from a mongoose schema",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebourmalo/feathers-mongoose-rest.git"
+  },
+  "keywords": [
+    "feathers",
+    "feathers-plugin",
+    "REST",
+    "Socket.io",
+    "realtime",
+    "mongodb",
+    "mongo",
+    "mongoose",
+    "service"
+  ],
+  "author": {
+    "name": "Emmanuel Bourmalo",
+    "email": "emmanuel.bourmalo@gmail.com",
+    "url": "https://github.com/ebourmalo"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebourmalo/feathers-mongoose-rest/issues"
+  },
+  "homepage": "https://github.com/ebourmalo/feathers-mongoose-rest",
+  "dependencies": {
+  },
+  "readmeFilename": "README.md"
+}
