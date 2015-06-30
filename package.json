@@ -1,7 +1,7 @@
 {
   "name": "feathers-mongoose-rest",
-  "version": "0.0.1",
-  "description": "Simply create a flexible rest service for Featherjs from a mongoose schema",
+  "version": "0.1",
+  "description": "Simply create a flexible rest resource for Featherjs from a mongoose schema",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
