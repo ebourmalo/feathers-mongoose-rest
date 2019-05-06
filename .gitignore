@@ -1,0 +1,21 @@
+node_modules
+.idea
+.sass-cache
+*.orig
+*.log
+
+# temp build
+build
+
+!bower_components/**
+
+# built by grunt
+public/images
+public/app.js
+public/app.css
+
+*.iml
+
+newrelic_agent.log
+tmp
+.DS_Store

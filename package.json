@@ -29,6 +29,8 @@
   },
   "homepage": "https://github.com/ebourmalo/feathers-mongoose-rest",
   "dependencies": {
+    "debug": "^2.1.1",
+    "feathers-query-filters": "^1.1.1"
   },
   "readmeFilename": "README.md"
 }
